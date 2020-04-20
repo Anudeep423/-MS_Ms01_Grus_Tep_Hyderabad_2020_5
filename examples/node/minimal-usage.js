@@ -11,7 +11,6 @@ return;
 console.log(faker.internet.email())
 console.log(faker.date.recent())
 console.log(faker.helpers.contextualCard());
-
 faker.locale = "uk";
 
 console.log(faker.helpers.contextualCard());
